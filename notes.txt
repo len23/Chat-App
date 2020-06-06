@@ -10,3 +10,12 @@ https://momentjs.com/
 
 --- Styling the chat app
 http://links.mead.io/chatassets
+
+
+1. git init
+2. Create .gitignore (agreagr node_modules)
+3. git add . 
+4. git commit -m "Cualquier mensaje"
+4. git push -u origin master
+5. heroku create lmontalvo-chat-app
+6. git push heroku master
