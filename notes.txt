@@ -1,0 +1,12 @@
+https://socket.io
+npm i scket.io
+In google mdn geolocation
+https://google.com/maps?q=0,0
+npm bad-words
+
+https://links.mead.io/chatlibs
+
+https://momentjs.com/
+
+--- Styling the chat app
+http://links.mead.io/chatassets
